@@ -1,0 +1,15 @@
+a) Criar um virtualenv com Python 3
+	mkvirtualenv taco
+
+b) Instalar os requirements
+	pip install -r erquirements.txt
+
+c) Rodar o servidor
+	python demo_server.py --checkpoint models/model.ckp
+
+d) Acessar o navegador:
+	http://localhost:9000
+
+e) Entrar com o texto e pedir para sintetizar
+
+
